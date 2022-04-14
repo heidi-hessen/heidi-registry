@@ -3,3 +3,4 @@ https://sso.h-da.de/idp/shibboleth
 https://weblogin.uni-marburg.de/idp/shibboleth
 https://idp2.ub.uni-frankfurt.de/idp/shibboleth
 https://idp.hebis.de/uni-frankfurt
+https://idp-dev.hrz.tu-darmstadt.de/idp/shibboleth
