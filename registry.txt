@@ -6,3 +6,4 @@ https://idp.hebis.de/uni-frankfurt
 https://idp-dev.hrz.tu-darmstadt.de/idp/shibboleth
 https://idp.hs-rm.de
 https://idptest.hs-rm.de
+https://shib-idp-srv1.hs-gm.de/idp/shibboleth
