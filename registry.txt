@@ -8,3 +8,6 @@ https://idp-dev.hrz.tu-darmstadt.de/idp/shibboleth
 https://idp.hs-rm.de
 https://idptest.hs-rm.de
 https://shib-idp-srv1.hs-gm.de/idp/shibboleth
+https://idp.hrz.uni-kassel.de/idp/shibboleth-idp
+https://idp2.hrz.uni-kassel.de/idp/shibboleth
+https://next.hessenbox.de/shibboleth
