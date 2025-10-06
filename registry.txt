@@ -2,6 +2,7 @@ https://gitlab.uni-marburg.de/shibboleth
 https://moodle-guest.hrz.tu-darmstadt.de/shibboleth
 https://sso.h-da.de/idp/shibboleth
 https://weblogin.uni-marburg.de/idp/shibboleth
+https://myaccount.uni-marburg.de/shibboleth
 https://idp2.ub.uni-frankfurt.de/idp/shibboleth
 https://idp.hebis.de/uni-frankfurt
 https://idp-dev.hrz.tu-darmstadt.de/idp/shibboleth
